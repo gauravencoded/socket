@@ -1,0 +1,26 @@
+{
+  "name": "socketuse",
+  "version": "0.0.1",
+  "description": "use cases for socket",
+  "main": "index,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravencoded/socket.git"
+  },
+  "author": "Gaurav Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravencoded/socket/issues"
+  },
+  "homepage": "https://github.com/gauravencoded/socket#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongod": "^2.0.0",
+    "npm": "^5.8.0",
+    "socket.io": "^2.1.0"
+  }
+}
